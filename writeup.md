@@ -24,12 +24,12 @@ The goals / steps of this project are the following:
 [image4]: ./examples/stop.jpg "Traffic Sign 1"
 [image5]: ./examples/yield.jpg "Traffic Sign 2"
 [image6]: ./examples/bumpy.jpg "Traffic Sign 3"
-[image7]: ./examples/speedlimit100 "Traffic Sign 4"
-[image8]: ./examples/rightofwayatintersection "Traffic Sign 5"
-[image9]: ./examples/histograms "Histograms"
-[image10]: ./examples/training_traffic_signs "Training Traffic Signs"
-[image11]: ./examples/traffic_signs_before_and_after_preprocessing "Traffic Sign Pre-Processing, before and after"
-[image12]: ./examples/german_traffic_signs "German Traffic Signs, resized RGB original and Pre-Processed gray scale"
+[image7]: ./examples/speedlimit100.png "Traffic Sign 4"
+[image8]: ./examples/rightofwayatintersection.png "Traffic Sign 5"
+[image9]: ./examples/histograms.png "Histograms"
+[image10]: ./examples/training_traffic_signs.png "Training Traffic Signs"
+[image11]: ./examples/traffic_signs_before_and_after_preprocessing.png "Traffic Sign Pre-Processing, before and after"
+[image12]: ./examples/german_traffic_signs.png "German Traffic Signs, resized RGB original and Pre-Processed gray scale"
 
 ## Rubric Points
 ### Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/481/view) individually and describe how I addressed each point in my implementation.  
